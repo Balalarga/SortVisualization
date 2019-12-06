@@ -1,0 +1,12 @@
+import QtQuick 2.0
+
+Item {
+    id: root
+    property int speed: 1;
+    property int count: 20;
+    
+    Component.onCompleted: {
+         
+    }
+
+}
