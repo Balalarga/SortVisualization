@@ -1,7 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>algorithms.js</file>
-        <file>Canvas.qml</file>
+        <file>MyComponent.qml</file>
+        <file>MyControl.qml</file>
     </qresource>
 </RCC>
